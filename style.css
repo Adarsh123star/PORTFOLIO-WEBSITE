@@ -74,3 +74,21 @@ body{
 .links:hover{
     background-color: darkorange;
 }
+html{
+    scroll-behavior: smooth;
+}
+a{
+ text-decoration: none;
+    text-shadow: 2px 2px red;
+}
+#Writings a{
+    text-decoration: underline !important;
+    text-shadow: none !important;
+
+}
+.article:hover{
+    background-color: darkturquoise;
+}
+.Contact1 h2{
+    display: inline;
+}
